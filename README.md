@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Priyadharshini E 👋
+
+🎓 Electronics and Communication Engineering Student
+
+## About Me
+- Interested in Embedded Systems and IoT.
+- Learning C Programming.
+- Interested in Microcontrollers and Hardware Development.
+
+## Technical Skills
+- C Programming
+- ESP32
+- Arduino IDE
+- IoT
+- Embedded Systems
+
+## My Projects
+- BuyerShield – Smart Anti-Counterfeiting System using ESP32 and NFC
+- Smart Attendance System
+- Wildlife Intrusion Detection System
+
+## Education
+B.E. Electronics and Communication Engineering
+
+## Connect with Me
+GitHub: @pd25priya-collab
+
